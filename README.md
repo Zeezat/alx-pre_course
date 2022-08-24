@@ -1,2 +1,2 @@
 My first readme
-My novice readme
+My programmer readme
